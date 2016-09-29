@@ -1,0 +1,22 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "web api architecture on node ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farazfaheem/NodeAPI.git"
+  },
+  "author": "FarazFaheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farazfaheem/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/farazfaheem/NodeAPI#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
